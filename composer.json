@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/google_rich_cards_weltpixel",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Highlight your products and draw organic traffic with Google Rich Cards",
+    "authors": [
+    {
+        "name": "Virgil Ghic",
+        "email": "mail@weltpixel.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

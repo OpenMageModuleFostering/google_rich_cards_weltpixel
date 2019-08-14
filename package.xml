@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<package>
+    <name>google_rich_cards_weltpixel</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Highlight your products and draw organic traffic with Google Rich Cards</summary>
+    <description>&lt;h1&gt;&#xA0;&lt;/h1&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;Improve your website appearance in Mobile organic search with new Rich Cards available from Google.Increase your visibility with Rich Cards and you can draw more traffic to your online store.&lt;/strong&gt;&#xA0;&lt;/p&gt;&#xD;
+&lt;p&gt;&lt;br /&gt;Rich cards use scema.org structured markup to display your content, like rich snippets, but in a more atracting and visual way on mobile devices.&lt;br /&gt;&lt;br /&gt;This is a new opportunity to be highlighted in Search results and attract more targeted users to your page. This visual format helps users find what they want as soon as they visualize it.&lt;strong&gt; &lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Improve your website appearance&lt;/li&gt;&#xD;
+&lt;li&gt;Enhance your visibility in search results&lt;/li&gt;&#xD;
+&lt;li&gt;Get more targeted traffic&lt;/li&gt;&#xD;
+&lt;li&gt;Boost your conversion rate&lt;/li&gt;&#xD;
+&lt;li&gt;Raise your brand awareness&lt;/li&gt;&#xD;
+&lt;/ul&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;br /&gt;FEATURES: &lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Enable or disable rich cards&lt;/li&gt;&#xD;
+&lt;li&gt;Made according to the latest Google and Schema.org standards&lt;/li&gt;&#xD;
+&lt;li&gt;No limit on store views within one Magento installation&lt;/li&gt;&#xD;
+&lt;li&gt;No limit of products or customers&lt;/li&gt;&#xD;
+&lt;li&gt;Meets Magento programming practices and customization compatibility for most versions&lt;/li&gt;&#xD;
+&lt;li&gt;Easy to setup&lt;/li&gt;&#xD;
+&lt;li&gt;Easy installation&lt;/li&gt;&#xD;
+&lt;/ul&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;br /&gt;HOW TO INSTALL:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&#xD;
+&lt;ol&gt;&#xD;
+&lt;li&gt;Disable compilations via &lt;strong&gt;system-&gt;tools-&gt;Compilations&lt;/strong&gt;&lt;/li&gt;&#xD;
+&lt;li&gt;Clear cache by going into &lt;strong&gt;System-&gt; Cache Management&lt;/strong&gt;, selecting all the files in the list, choosing the &lt;strong&gt;refresh&lt;/strong&gt; option in the dropdown menu, and finally clicking &lt;strong&gt;Submit&lt;/strong&gt;.&lt;/li&gt;&#xD;
+&lt;li&gt;Unzip the folder where the extension is stored and copy the App folder into either your store root directory using your FTP.&lt;/li&gt;&#xD;
+&lt;li&gt;Log out of your admin panel, and log back in again&lt;/li&gt;&#xD;
+&lt;li&gt;&lt;strong&gt;Woohoo, the extension is installed!&lt;/strong&gt;&lt;/li&gt;&#xD;
+&lt;/ol&gt;&#xD;
+&lt;p&gt;&lt;strong&gt;&#xA0;&lt;/strong&gt;&lt;/p&gt;</description>
+    <notes>- initial release</notes>
+    <authors><author><name>Virgil Ghic</name><user>virgil</user><email>mail@weltpixel.com</email></author></authors>
+    <date>2016-05-25</date>
+    <time>13:31:51</time>
+    <contents><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="weltpixel"><file name="googlecards.xml" hash=""/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="WeltPixel_GoogleCards.xml" hash=""/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
