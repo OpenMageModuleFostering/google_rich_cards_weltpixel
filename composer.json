@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/google_rich_cards_weltpixel",
+    "name": "openmage-module-fostering\/google_rich_cards_weltpixel",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Highlight your products and draw organic traffic with Google Rich Cards",
     "authors": [
